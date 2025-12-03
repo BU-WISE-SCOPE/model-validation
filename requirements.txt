@@ -3,3 +3,5 @@ numpy
 soundfile
 pandas
 matplotlib
+scikit-learn
+jupyter-black
